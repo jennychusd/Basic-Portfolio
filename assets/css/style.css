@@ -16,7 +16,7 @@ h1 {
 	font-size:26px;
 	line-height:26px;
 	font-weight:600;
-	padding:10px 40px;
+	padding:25px 40px;
 }
 	
 h2 {
@@ -32,6 +32,7 @@ p {
 	color:#777777;
 	vertical-align: top;
 	display: inline;
+	margin:20px 0 0 0;
 }
 
 a:hover {
@@ -84,6 +85,13 @@ button:hover {
 	margin-bottom: 100px
 }
 
+.myImage {
+	display:inline;
+	padding: 0 20px 0 0;
+	width:200px;
+}
+
+
 .social {
 	width:228px;
 	background-color: #ffffff;
@@ -100,6 +108,7 @@ button:hover {
 	padding-left:0;
 	padding-bottom:10px;
 	border-bottom:2px solid #eeeeee;
+	margin-bottom:20px;
 }
 
 div.projectsLeft {
@@ -125,7 +134,7 @@ div.projectsRight {
 
 .projectsText {
 	position:absolute;
-	bottom:15px;
+	bottom:30px;
 	left:10px;
 	background-color: #4aaaa5;
 	color: #ffffff;
